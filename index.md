@@ -14,6 +14,10 @@ For local usage just download [Jekyll](http://jekyllrb.com/), use installation g
 
 If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
+```
+v*l*e*s*s://e12dfa68-54d9-45bb-b3de-b3345843bd6a@yandex.cloudflare.thatfreeservicewhicheveryoneuse.uk:2086?type=ws&security=n*one&path=/#VLESS-Telegram_t.me/th*er*eal*aleph
+```
+
 ### Files
 
 * `_config.yml`            : Main configuration file.
