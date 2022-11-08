@@ -14,6 +14,8 @@ For local usage just download [Jekyll](http://jekyllrb.com/), use installation g
 
 If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
+`vless://4e299876-317a-458e-9593-ef6a3d86547e@unvari.thatfreeservicewhicheveryoneuse.uk:8080?encryption=none&security=none&type=ws&path=%2F#VLESS-Telegram_t.me%2Ftherealaleph`
+
 
 ### Files
 
