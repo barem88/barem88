@@ -14,7 +14,24 @@ For local usage just download [Jekyll](http://jekyllrb.com/), use installation g
 
 If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
-`vless://4e299876-317a-458e-9593-ef6a3d86547e@unvari.thatfreeservicewhicheveryoneuse.uk:8080?encryption=none&security=none&type=ws&path=%2F#VLESS-Telegram_t.me%2Ftherealaleph`
+```
+vless://cad08723-1e21-45c5-a87b-9d6f8eb227f7@therealaleph-v1.thatfreeservicewhicheveryoneuse.uk:2082?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVk1FU1MtVGVsZWdyYW1fdC5tZS90aGVyZWFsYWxlcGgiLCAiYWRkIjogInRoZXJlYWxhbGVwaC12MS50aGF0ZnJlZXNlcnZpY2V3aGljaGV2ZXJ5b25ldXNlLnVrIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiNWNkMjZlZDYtNTdjNC00ZDkwLTgzMTYtNDM0MGIzMTk3YzU1IiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
+
+
+trojan://bccb6d26-5270-4317-97b6-d46a0c2c7d9b@therealaleph-tj1.gozargah.uk:443?peer=therealaleph-tj1.gozargah.uk&sni=therealaleph-tj1.gozargah.uk&alpn=http/1.1#therealaleph-on-telegram
+
+
+trojan://3e81cfb7-c53e-47a5-be13-2e5a32bc54ff@therealaleph-tj2.gozargah.uk:443?peer=therealaleph-tj2.gozargah.uk&sni=therealaleph-tj2.gozargah.uk&alpn=http/1.1#therealaleph-on-telegram
+
+
+trojan://c30623f4-dc56-4f89-b0f6-86cb764c8ca8@therealaleph-tj3.gozargah.uk:443?peer=therealaleph-tj3.gozargah.uk&sni=therealaleph-tj3.gozargah.uk&alpn=http/1.1#therealaleph-on-telegram
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbGVwaA==@therealaleph-on-telegram.gozargah.uk:443?plugin=ck-client%3BUID%3DZofE%2BUx93TBbKPMGVXmqag%5C%3D%5C%3D%3BPublicKey%3DL%2FTYH%2FSkAC0l8l3WtFdEgAh8KpDMjleoGu4ZnEjzUUU%5C%3D%3BServerName%3Dbing.com%3BBrowserSig%3Dchrome%3BNumConn%3D4%3BProxyMethod%3Dshadowsocks%3BEncryptionMethod%3Dplain%3BStreamTimeout%3D300
+```
 
 
 ### Files
